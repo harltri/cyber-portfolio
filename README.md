@@ -1,10 +1,8 @@
 # 🖤🎀 Trinity Harley – Cybersecurity Portfolio
-━━━━━━━━━━━━━━━━━━━━━━
 
 ![Focus](https://img.shields.io/badge/Focus-Cybersecurity-ff69b4?style=for-the-badge)
 ![Role](https://img.shields.io/badge/Role-Ethical%20Hacker-black?style=for-the-badge)
-![Intel](https://img.shields.io/badge/Field-Intelligence-ff1493?style=for-the-badge)
-![Tool](https://img.shields.io/badge/Tool-VMware-black?style=for-the-badge)
+![Focus Area](https://img.shields.io/badge/Focus%20Area-Intelligence-ff1493?style=for-the-badge)
 ![Cert](https://img.shields.io/badge/Certification-CompTIA-ff69b4?style=for-the-badge)
 
 ---
@@ -20,20 +18,23 @@ I am an aspiring cybersecurity professional with experience as a Cryptologic Tec
 - Analyzed data and communications to identify patterns, anomalies, and potential threats  
 - Applied critical thinking to support mission decisions  
 - Produced clear and actionable insights from technical data  
+- Maintained attention to detail when working with sensitive and complex data  
 
 ---
 
-### 💻 🖤 IT Experience (Navy IT Shop)
+### 💻 🖤 IT Experience (U.S. Navy IT Shop)
 - Reimaged laptops and configured systems for operational use  
 - Troubleshot technical issues and supported users  
-- Worked with networks and system configurations  
+- Worked with network systems and configurations  
+- Gained hands-on experience in IT operations and system maintenance  
 
 ---
 
 ### 🧪 💕 Cybersecurity Labs & Projects
-- Completed labs including website design and system configurations  
-- Used VMware Workstation to build virtual lab environments  
+- Completed multiple labs including website design and system configurations  
+- Used virtual lab environments for hands-on practice  
 - Practiced networking, security concepts, and troubleshooting  
+- Developed problem-solving skills through technical exercises  
 
 ---
 
@@ -45,4 +46,4 @@ I am an aspiring cybersecurity professional with experience as a Cryptologic Tec
 ---
 
 ## 💌 🖤 Connect
-*(Add LinkedIn or more projects here later)*
+Linkedin: 
