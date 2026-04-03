@@ -3,7 +3,7 @@
 ![Focus](https://img.shields.io/badge/Focus-Cybersecurity-ff69b4?style=for-the-badge)
 ![Role](https://img.shields.io/badge/Role-Ethical%20Hacker-black?style=for-the-badge)
 ![Focus Area](https://img.shields.io/badge/Focus%20Area-Intelligence-ff1493?style=for-the-badge)
-![Cert](https://img.shields.io/badge/Certification-CompTIA-Security+-ff69b4?style=for-the-badge)
+![Cert](https://img.shields.io/badge/Certification-CompTIA-ff69b4?style=for-the-badge)
 
 ---
 
