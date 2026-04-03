@@ -3,12 +3,12 @@
 ![Focus](https://img.shields.io/badge/Focus-Cybersecurity-ff69b4?style=for-the-badge)
 ![Role](https://img.shields.io/badge/Role-Ethical%20Hacker-black?style=for-the-badge)
 ![Focus Area](https://img.shields.io/badge/Focus%20Area-Intelligence-ff1493?style=for-the-badge)
-![Cert](https://img.shields.io/badge/Certification-CompTIA-ff69b4?style=for-the-badge)
+![Cert](https://img.shields.io/badge/Certification-CompTIA-Security+-ff69b4?style=for-the-badge)
 
 ---
 
 ## 📝 💖 About Me
-I am an aspiring cybersecurity professional with experience as a Cryptologic Technician in the U.S. Navy and working in a Navy IT shop. I also hold CompTIA certification and am focused on developing my skills in network security, threat analysis, and ethical hacking.
+I am an aspiring cybersecurity professional with experience as a Cryptologic Technician in the U.S. Navy and working in a Navy IT shop. I also hold CompTIA Sec+ certification and am focused on developing my skills in network security, threat analysis, and ethical hacking.
 
 ---
 
@@ -34,7 +34,24 @@ I am an aspiring cybersecurity professional with experience as a Cryptologic Tec
 - Completed multiple labs including website design and system configurations  
 - Used virtual lab environments for hands-on practice  
 - Practiced networking, security concepts, and troubleshooting  
-- Developed problem-solving skills through technical exercises  
+- Developed problem-solving skills through technical exercises
+
+- ### 🛡️ 💻 Cybersecurity Project: Network Traffic Analysis
+
+- Used packet analysis techniques to examine network traffic and identify suspicious activity  
+- Reviewed traffic patterns to detect anomalies and potential security threats  
+- Practiced analyzing protocols and data flow within a controlled lab environment  
+- Applied basic threat detection concepts to simulate real-world cybersecurity scenarios  
+
+**Tools Used:**  
+- Wireshark (network analysis)  
+- Virtual lab environment  
+
+**Skills Demonstrated:**  
+- Threat analysis  
+- Attention to detail  
+- Network monitoring  
+- Problem-solving  
 
 ---
 
