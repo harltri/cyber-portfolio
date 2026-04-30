@@ -1,66 +1,64 @@
 # 🖤🎀 Trinity Harley – Cybersecurity Portfolio
 
 ![Focus](https://img.shields.io/badge/Focus-Cybersecurity-ff69b4?style=for-the-badge)
-![Role](https://img.shields.io/badge/Role-Ethical%20Hacker-black?style=for-the-badge)
+![Role](https://img.shields.io/badge/Role-Cybersecurity%20Analyst-black?style=for-the-badge)
 ![Focus Area](https://img.shields.io/badge/Focus%20Area-Intelligence-ff1493?style=for-the-badge)
 ![Cert](https://img.shields.io/badge/Certification-CompTIA-ff69b4?style=for-the-badge)
 
 ---
 
 ## 📝 💖 About Me
-I am an aspiring cybersecurity professional with experience as a Cryptologic Technician in the U.S. Navy and working in a Navy IT shop. I also hold CompTIA Sec+ certification and am focused on developing my skills in network security, threat analysis, and ethical hacking.
+I am an aspiring cybersecurity professional with experience as a Cryptologic Technician in the U.S. Navy and working in a Navy IT shop. I also hold CompTIA certification and am focused on developing my skills in network security, threat analysis, ethical hacking, and intelligence analysis.
 
 ---
 
 ## 🔐 💻 Portfolio Highlights
 
-### 🧠 🎀 Intelligence & Analysis (U.S. Navy)
-- Analyzed data and communications to identify patterns, anomalies, and potential threats  
-- Applied critical thinking to support mission decisions  
-- Produced clear and actionable insights from technical data  
-- Maintained attention to detail when working with sensitive and complex data  
+### 🧠 🎀 Intelligence & Analysis Experience — U.S. Navy
+- Analyzed information to identify patterns, anomalies, and potential threats  
+- Applied critical thinking and attention to detail in mission-focused environments  
+- Interpreted technical information and supported decision-making  
+- Developed strong analytical and problem-solving skills  
 
 ---
 
-### 💻 🖤 IT Experience (U.S. Navy IT Shop)
+### 💻 🖤 IT Experience — Navy IT Shop
 - Reimaged laptops and configured systems for operational use  
 - Troubleshot technical issues and supported users  
-- Worked with network systems and configurations  
+- Worked with systems, networks, and basic configurations  
 - Gained hands-on experience in IT operations and system maintenance  
 
 ---
 
 ### 🧪 💕 Cybersecurity Labs & Projects
-- Completed multiple labs including website design and system configurations  
-- Used virtual lab environments for hands-on practice  
+- Completed multiple IT and cybersecurity labs  
+- Designed websites as part of coursework and technical practice  
+- Used virtual lab environments for hands-on projects  
 - Practiced networking, security concepts, and troubleshooting  
-- Developed problem-solving skills through technical exercises
 
-- ### 🛡️ 💻 Cybersecurity Project: Network Traffic Analysis
+---
 
-- Used packet analysis techniques to examine network traffic and identify suspicious activity  
-- Reviewed traffic patterns to detect anomalies and potential security threats  
-- Practiced analyzing protocols and data flow within a controlled lab environment  
-- Applied basic threat detection concepts to simulate real-world cybersecurity scenarios  
-
-**Tools Used:**  
-- Wireshark (network analysis)  
-- Virtual lab environment  
+### 🛡️ 💻 Cybersecurity Project: Network Traffic Analysis
+- Practiced analyzing network traffic to identify suspicious activity  
+- Reviewed traffic patterns to recognize anomalies and possible threats  
+- Applied basic threat detection concepts in a lab environment  
+- Strengthened skills in network monitoring and cybersecurity analysis  
 
 **Skills Demonstrated:**  
 - Threat analysis  
-- Attention to detail  
 - Network monitoring  
+- Attention to detail  
 - Problem-solving  
 
 ---
 
 ## 🚀 🎀 Goals
-- Build and upload cybersecurity lab projects  
+- Build and upload more cybersecurity lab projects  
 - Develop scripts and security tools  
-- Continue growing toward a career in intelligence and ethical hacking  
+- Continue improving my GitHub portfolio and LinkedIn profile  
+- Work toward a career in cybersecurity analysis, ethical hacking, or intelligence  
 
 ---
 
 ## 💌 🖤 Connect
-Linkedin: 
+**LinkedIn:** www.linkedin.com/in/trinity-harley
